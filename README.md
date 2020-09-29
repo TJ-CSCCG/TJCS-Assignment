@@ -16,7 +16,8 @@
 
 ## :yum: 集锦
 
-* [100165_计算机系统结构](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100165_计算机系统结构.md)
+* [100022_Web技术](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100022_Web技术.md)
+* [100160_计算机系统结构](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100160_计算机系统结构.md)
 * [100165_数据结构课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100165_数据结构课程设计.md)
 * [100395_编译原理](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100395_编译原理.md)
 * [100415_汇编语言程序设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100415_汇编语言程序设计.md)
