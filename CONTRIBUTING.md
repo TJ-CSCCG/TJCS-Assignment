@@ -12,6 +12,8 @@
 
 ## :heart: 大致流程
 
+### 一、`git`-`GitHub`
+
 1. `fork` 本项目；
 2. `clone` 所 `fork` 到个人的仓库到本地；
 3. 将本仓库作为个人 `fork` 的本地仓库的 **上游仓库** (git remote add upstream ...)；
@@ -19,6 +21,12 @@
 5. 同步上游仓库代码，个人处理冲突；
 6. `push` 本地仓库的修改到 `GitHub`；
 7. 在 `fork` 的仓库里点击 `pull request`。
+
+### 二、联系仓库主要管理者
+
+1. 在 `GitHub` 上创建自己的仓库，并将代码添加至仓库中；
+2. 联系仓库主要管理者；（目前为 [skyleaworlder](https://github.com/skyleaworlder)）
+3. 与主要管理者达成协议。
 
 ## :anchor: 标准
 
