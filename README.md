@@ -8,7 +8,7 @@
 
 ## :christmas_tree: 贡献
 
-欢迎所有同学的 [贡献](https://github.com/TJ-CSCCG/TJCS-Assignment/CONTRIBUTING.md)！
+欢迎所有同学的 [贡献](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/CONTRIBUTING.md)！
 
 仓库内容可包括所有专业课程的作业。
 
@@ -22,6 +22,7 @@
 * [100312_编译原理课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100312_编译原理课程设计.md)
 * [100383_计算机科学导论](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100383_计算机科学导论.md)
 * [100415_汇编语言程序设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100415_汇编语言程序设计.md)
+* [100433_计算机图形学](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100433_计算机图形学.md)
 * [100436_操作系统课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100436_操作系统课程设计.md)
 * [100437_数据库系统原理课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100437_数据库系统原理课程设计.md)
 * [100580_人工智能原理与技术](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100580_人工智能原理与技术.md)
