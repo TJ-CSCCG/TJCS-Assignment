@@ -1,5 +1,7 @@
 # :tada: TJCS-Assignment
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/TJ-CSCCG/TJCS-Assignment)
+
 ## :ship: 精神
 
 ```chinese
