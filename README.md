@@ -27,7 +27,7 @@
 * [100433_计算机图形学](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100433_计算机图形学.md)
 * [100436_操作系统课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100436_操作系统课程设计.md)
 * [100437_数据库系统原理课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100437_数据库系统原理课程设计.md)
-* [100580_人工智能原理与技术](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100580_人工智能原理与技术.md)
+* [100579_人工智能课程设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/100579_人工智能课程设计.md)
 * [101016_计算机组成原理](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/101016_计算机组成原理.md)
 * [101019_数据结构](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/101019_数据结构.md)
 * [101029_算法分析与设计](https://github.com/TJ-CSCCG/TJCS-Assignment/blob/master/101029_算法分析与设计.md)
